@@ -2,5 +2,7 @@
 second attempt
 testing more markdown
 > lorem
-> ipsum 
+> ipsum
 > dolor
+> local edits
+> more local edits
